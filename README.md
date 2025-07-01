@@ -1,4 +1,3 @@
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sms7118)](https://solved.ac/sms7118)
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20My%20World&animation=twinkling&fontColor=000000&fontSize=70" />
     </div>
@@ -21,6 +20,7 @@
           <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
     </div>
+    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sms7118)](https://solved.ac/sms7118)
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://sms7118.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://sms7118.tistory.com/"> </a>
