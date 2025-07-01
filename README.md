@@ -19,7 +19,6 @@
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
           </div>
-            [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sms7118)](https://solved.ac/sms7118)
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
@@ -32,4 +31,5 @@
         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msung00&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000"
           /> </div> 
     </div>
+                [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sms7118)](https://solved.ac/sms7118)
     
