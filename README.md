@@ -38,12 +38,10 @@
   </div> <br> 
   <div align="center"></div> 
 </div>
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div style="text-align: left;"> <img src="https://github-readme-stats.vercel.app/api?username=msung00&bg_color=60,ffae00,ff00bb&title_color=000000&text_color=000000"
+<div align= "center"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=msung00&bg_color=60,ffae00,ff00bb&title_color=000000&text_color=000000"
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msung00&layout=compact&bg_color=60,ffae00,ff00bb&title_color=000000&text_color=000000"
            /> </div> 
-    </div>
-    <br/>
     <a href="https://solved.ac/sms7118">
       <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sms7118" alt="Solved.ac profile" />
     </a>
